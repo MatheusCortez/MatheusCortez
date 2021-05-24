@@ -4,7 +4,7 @@
 | 24 Anos| 
 | São Paulo
 |Analise e Desenvolvimento de Sistemas( trancado)|
-| Desenvolvedor FullStack Nodejs/Angular| 
+| Desenvolvedor FullStack Nodejs/EJS| 
 
 
 | Most Used Languages| Statistics |
