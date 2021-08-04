@@ -1,13 +1,9 @@
+## Olá jovem!
 
-| Sobre mim |
-|:------:|
-| 24 Anos| 
-| São Paulo
-|Analise e Desenvolvimento de Sistemas( trancado)|
-| Desenvolvedor FullStack Nodejs/EJS| 
+<div>
+    <a href="https://github.com/MatheusCortez">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&show_icons=true&theme=dark">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&layout=compact&theme=dark">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-css.svg'>
 
-
-| Most Used Languages| Statistics |
-| ------ | ------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCortez&show_icons=true&theme=radical)
-
+</div>
