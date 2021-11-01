@@ -5,6 +5,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&show_icons=true&theme=dark">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&layout=compact&theme=dark">
         </a>
+    
+- Estudante Generation Brasil Mobile 
+- Web Fullstack Javascript Digital House
+
 </div>
       Minhas Skills:
 <div>   
