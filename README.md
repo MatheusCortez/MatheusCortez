@@ -1,17 +1,19 @@
 ## Olá jovem!
 
-<div>
+<div >
     <a href="https://github.com/MatheusCortez">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&show_icons=true&theme=dark">
-    <img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&layout=compact&theme=dark">
-        </a>
-    
+        <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&llangs_count=8&theme=dark&layout=compact">
+        <img  height="180em"   src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&theme=merko">
+    </a>
+      
 - Estudante Generation Brasil Mobile 
 - Web Fullstack Javascript Digital House
 
 </div>
-      Minhas Skills:
-<div>   
+  
+
+<div>
+         Minhas Skills:<br/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT logo">
        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML logo">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS logo">
