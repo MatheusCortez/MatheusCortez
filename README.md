@@ -6,7 +6,7 @@
         <img  height="170em"   src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&theme=merko">
     </a>
       
-- Estudante Generation Brasil Mobile 
+-  Generation Brasil Mobile 
 - Web Fullstack Javascript Digital House
 
 </div>
