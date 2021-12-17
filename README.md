@@ -4,9 +4,10 @@
     <a href="https://github.com/MatheusCortez">
         <img height="170em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&llangs_count=8&theme=dark&layout=compact">
         <img  height="170em"   src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&theme=merko">
+              <img src="https://activity-graph.herokuapp.com/graph?username=MatheusCortez&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
     </a>
-      
--  Generation Brasil Mobile 
+
+-  Generation Brasil Kotlin Android
 - Web Fullstack Javascript Digital House
 
 </div>
