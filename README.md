@@ -3,8 +3,7 @@
 <div >
     <a href="https://github.com/MatheusCortez">
         <img height="170em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortez&llangs_count=8&theme=dark&layout=compact">
-        <img  height="170em"   src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&theme=merko">
-             
+        <img  height="170em"   src="https://github-readme-stats.vercel.app/api?username=MatheusCortez&theme=merko">     
     </a>
 
 -  Generation Brasil Kotlin Android
